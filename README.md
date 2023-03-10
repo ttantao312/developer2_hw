@@ -1,3 +1,1 @@
-# developer2_hw
-# developer2_hw
-# developer2_hw
+index.php is where the script locates for the homework assignment. 
